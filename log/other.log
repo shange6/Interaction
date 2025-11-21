@@ -1,0 +1,40 @@
+2025-11-21 03:13:20|INFO    |sohu sohu.sohu  28|初始化开始
+2025-11-21 03:13:20|INFO    |sohu sohu.sohu  61|开始连接现有浏览器(http://localhost:12345)
+2025-11-21 03:13:21|DEBUG   |sohu sohu.sohu 105|失败连接现有浏览器(http://localhost:12345)
+2025-11-21 03:13:21|INFO    |sohu sohu.sohu  68|开始获取新建浏览器
+2025-11-21 03:13:22|INFO    |sohu sohu.sohu  98|成功获取新建浏览器
+2025-11-21 03:13:23|INFO    |sohu sohu.sohu 116|已打开登录页面: https://tv.sohu.com/s/center/index.html#/video/list
+2025-11-21 03:13:26|INFO    |sohu sohu.sohu  46|页面已关闭
+2025-11-21 03:13:26|INFO    |sohu sohu.sohu  50|浏览器上下文已关闭
+2025-11-21 03:13:26|INFO    |sohu sohu.sohu  54|浏览器已关闭
+2025-11-21 03:13:26|INFO    |sohu sohu.sohu  58|Playwright已停止
+2025-11-21 03:24:15|INFO    |sohu sohu.sohu  22|初始化开始
+2025-11-21 03:24:16|INFO    |sohu sohu.sohu  54|开始连接现有浏览器(http://localhost:12345)
+2025-11-21 03:24:16|DEBUG   |sohu sohu.sohu  98|失败连接现有浏览器(http://localhost:12345)
+2025-11-21 03:24:16|INFO    |sohu sohu.sohu  61|开始获取新建浏览器
+2025-11-21 03:24:17|INFO    |sohu sohu.sohu  91|成功获取新建浏览器
+2025-11-21 03:24:18|INFO    |sohu sohu.sohu 109|已打开登录页面: https://tv.sohu.com/s/center/index.html#/video/list
+2025-11-21 03:24:21|INFO    |sohu sohu.sohu  39|页面已关闭
+2025-11-21 03:24:21|INFO    |sohu sohu.sohu  43|浏览器上下文已关闭
+2025-11-21 03:24:21|INFO    |sohu sohu.sohu  47|浏览器已关闭
+2025-11-21 03:24:21|INFO    |sohu sohu.sohu  51|Playwright已停止
+2025-11-21 03:24:45|INFO    |sohu sohu.sohu  22|初始化开始
+2025-11-21 03:24:45|INFO    |sohu sohu.sohu  54|开始连接现有浏览器(http://localhost:12345)
+2025-11-21 03:24:46|DEBUG   |sohu sohu.sohu  98|失败连接现有浏览器(http://localhost:12345)
+2025-11-21 03:24:46|INFO    |sohu sohu.sohu  61|开始获取新建浏览器
+2025-11-21 03:24:47|INFO    |sohu sohu.sohu  91|成功获取新建浏览器
+2025-11-21 03:24:48|INFO    |sohu sohu.sohu 109|已打开登录页面: https://tv.sohu.com/s/center/index.html#/video/list
+2025-11-21 03:35:27|INFO    |sohu sohu.sohu  39|页面已关闭
+2025-11-21 03:35:27|INFO    |sohu sohu.sohu  43|浏览器上下文已关闭
+2025-11-21 03:35:27|INFO    |sohu sohu.sohu  47|浏览器已关闭
+2025-11-21 03:35:27|INFO    |sohu sohu.sohu  51|Playwright已停止
+2025-11-21 03:35:47|INFO    |sohu sohu.sohu  22|初始化开始
+2025-11-21 03:35:47|INFO    |sohu sohu.sohu  54|开始连接现有浏览器(http://localhost:12345)
+2025-11-21 03:35:48|DEBUG   |sohu sohu.sohu  98|失败连接现有浏览器(http://localhost:12345)
+2025-11-21 03:35:48|INFO    |sohu sohu.sohu  61|开始获取新建浏览器
+2025-11-21 03:35:49|INFO    |sohu sohu.sohu  91|成功获取新建浏览器
+2025-11-21 03:35:50|INFO    |sohu sohu.sohu 109|已打开登录页面: https://tv.sohu.com/s/center/index.html#/video/list
+2025-11-21 03:45:11|INFO    |sohu sohu.sohu  39|页面已关闭
+2025-11-21 03:45:11|INFO    |sohu sohu.sohu  43|浏览器上下文已关闭
+2025-11-21 03:45:11|INFO    |sohu sohu.sohu  47|浏览器已关闭
+2025-11-21 03:45:11|INFO    |sohu sohu.sohu  51|Playwright已停止

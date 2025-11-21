@@ -10,11 +10,15 @@
 '''
 
 import sys
+import os
 from loguru import logger
 
-success_path = "./log/success.log"
-failure_path = "./log/failure.log"
-other_path = "./log/jdjx.log"
+current_dir = os.path.dirname(os.path.abspath(__file__))
+log_dir = os.path.join(current_dir, "..", "log")
+os.makedirs(log_dir, exist_ok=True)
+success_path = os.path.join(log_dir, "success.log")
+failure_path = os.path.join(log_dir, "failure.log")
+other_path = os.path.join(log_dir, "other.log")
 
 logger.remove(0)
 logger.add(
@@ -39,7 +43,8 @@ logger.add(
 )
 logger.add(
 	sink=other_path,
-	level="INFO",
+	# level="INFO",
+	level="DEBUG",
 	filter=lambda record: record["extra"].get("name") == "other",
 	format="<green>{time:YYYY-MM-DD hh:mm:ss}|</><lvl>{level:8}</><cyan>|{module} {name} {line:3}|</><lvl>{message}</>",
 	colorize=False
